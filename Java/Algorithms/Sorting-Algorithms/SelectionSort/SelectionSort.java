@@ -7,7 +7,7 @@ public class SelectionSort {
 		
 		
 		Scanner s = new Scanner(System.in);
-		System.out.print("Enter the No of Elements:");
+		System.out.print("Enter the No of Elements  :");
 		int n = s.nextInt();
 		int[] intarray = new int[n];
 		System.out.print("Enter the elements:" );
